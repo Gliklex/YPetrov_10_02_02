@@ -7,8 +7,9 @@
 # E-mail: !!!
 
 
-import task_10_02_02_pizza as пицца
 import task_10_02_02_order as заказ
+import task_10_02_02_pizza as пицца
+
 
 # Уберите raise и добавьте необходимый код - импортируйте необходимые модули
 
